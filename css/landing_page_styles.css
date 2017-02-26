@@ -53,9 +53,62 @@ img {
 }
 .getinspired-col-1 img {
 	position:relative;
-	top:20px;
+	top:35px;
+	left:20px;
 }
 .getinspired-col-2 img{
 	position:relative;
 	top:40px;
+}
+.getinspired-col-3 img{
+	position:relative;
+	top:60px;
+}
+.getinspired-col-4 img{
+	position:relative;
+	top:60px;
+}
+.blend {
+	mix-blend-mode:overlay;
+}
+.pete img {
+	position:relative;
+	top: 50px;
+}
+.brian img {
+	position:relative;
+	bottom:30px;
+}
+.familyguy img {
+	position:relative;
+	bottom:20px;
+	right:100px;
+}
+.aboutme {
+	font-size: 14px;
+	position: relative;
+	top:50px;
+	text-align: center;
+}
+.aboutme2 {
+	font-size: 14px;
+	position: relative;
+	top:50px;
+	text-align: center;
+}
+	
+.aboutme3 {
+	mix-blend-mode:luminosity;
+}
+.custom-row-00 {
+	font-size: 30px;
+	text-align: center;
+	font-weight: bolder;
+	position:relative;
+	top:300px;
+}
+.contactinfo {
+	text-align: center;
+	font-weight: bold;
+	top:500px;
 }
