@@ -28,7 +28,6 @@ img {
 	border: 4px solid black !important;
 	font-size: 20px !important;
 }
-
 .home-col-1 img {
 	position: relative;
 	top: 125px;
@@ -97,8 +96,9 @@ img {
 	text-align: center;
 }
 	
-.aboutme3 {
-	mix-blend-mode:luminosity;
+.aboutme3 img {
+    border: blur(20px);
+    margin:-20px;
 }
 .custom-row-00 {
 	font-size: 30px;
